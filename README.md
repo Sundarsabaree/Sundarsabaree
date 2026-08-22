@@ -156,23 +156,11 @@ Certifications will be added as I continue my learning journey.
 
 <br>
 
-## 📊 GitHub Statistics
+## 📊 linked in stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabareeswans101&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabareeswans101&layout=compact&theme=dark&hide_border=true" width="40%" />
+  <img src="https://leetcard.jacoblin.cool/sabareeswaran101?theme=light&font=Noto%20Sans%20Cypriot" width="100%" />
 </p>
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabareeswans101&theme=dark&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sabareeswans101">View my full GitHub contribution graph →</a>
-</p>
-
 <br>
 
 ## 🎯 Career Goals
@@ -193,7 +181,7 @@ Certifications will be added as I continue my learning journey.
 I'm open to connecting with developers, recruiters, and teams working on interesting technology projects — including internships, software development opportunities, collaborations, and open-source work.
 
 <p align="center">
-  <a href="https://github.com/sabareeswans101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Sundarsabaree/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sabareeswaran-sundaramoorthy-574787304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sundarsabaree/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -204,7 +192,7 @@ I'm open to connecting with developers, recruiters, and teams working on interes
 <p align="center">Thanks for visiting my profile! Let's connect and build something meaningful together. 🚀</p>
 
 <p align="center">
-  <a href="https://github.com/sabareeswans101">GitHub</a> |
+  <a href="https://github.com/Sundarsabaree/">GitHub</a> |
   <a href="https://www.linkedin.com/in/sabareeswaran-sundaramoorthy-574787304/">LinkedIn</a> |
   <a href="https://github.com/Sundarsabaree/portfolio">Portfolio</a>
 </p>
